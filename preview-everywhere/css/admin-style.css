@@ -1,7 +1,5 @@
 .preview.button.buttonprevieweverywhere {
-    background-color: #5BB75B;
-    background-image: linear-gradient(to bottom, #62C462, #51A351);
-    background-repeat: repeat-x;
+    background: #5BB75B linear-gradient(to bottom, #62C462, #51A351) repeat-x;
     border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
     color: #FFFFFF;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
